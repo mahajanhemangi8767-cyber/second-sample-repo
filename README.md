@@ -23,3 +23,17 @@
 sudo apt install
 sudo apt install git -y
 
+
+# This is My Simple Node.js Application Workflow
+
+## included some test cases for CICD pipline
+
+
+triggers, which triggers jenkins
+
+
+### Connected with webhook to understand
+
+
+- used ngrok for exposing localhost here
+- to work with webhooks 
